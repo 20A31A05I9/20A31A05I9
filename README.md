@@ -14,13 +14,16 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
 <hr>
 <h2 align="left">👩🏻‍💻 Projects </h2>
 <p>
-  <a>
-  <div>
-    <img src="![Image Alt Text](Screenshot_20230626_134930.jpg)" alt="Farmer store app">
-    <div class="card-content">
-      <h2>Farmer Store App</h2>
-      <p>This is the farmer store app which is useful for farmers to sell items directly to the consumers without mediators.</p>
-    </div>
-  </div>  
+<div>
+  <h2>Farmer store App</h2>
+  <p>An app which is useful for farmers to connect with consumers directly without consumers.</p>
+  <a href="#"><img src="https://github.com/20A31A05I9/20A31A05I9/blob/main/Screenshot_20230626_134930.jpg?raw=true" alt="Farmer store app" width="300" height="500">
   </a>
+</div>
+<div>
+  <h2>Face Recognition App</h2>
+  <p>An app which is used for face recognition attendance.</p>
+  <a href="#"><img src="https://github.com/20A31A05I9/20A31A05I9/blob/main/Screenshot_20230626_134930.jpg?raw=true" alt="Farmer store app" width="300" height="500">
+  </a>
+</div>
 </p>
