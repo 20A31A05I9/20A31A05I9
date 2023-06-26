@@ -1,35 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm SHAIK VALIYA BABJI 👋</h1>
 
-<!-- Your Name -->
-# Hello, I'm [Your Name](https://your-website.com) 👋
+<h3 align="center">A passionate flutter developer for multiplatform from India , I'm familiar with programming languages like [ C C++ PYTHON JAVA ] And databases like [ SQL ] and No sql databases like [ MONGO DB and FIREBASE ] And also apis like [ PHP and SPRINGBOOT ] , A dedicated enthusiast of Data Structures and Algorithms with a focus on C++. I love solving complex problems and optimizing code for efficiency.. </h3>
 
-<!-- Your Bio -->
-I'm a passionate developer who loves creating beautiful and functional software. My interests range from front-end development to artificial intelligence.
 
-<!-- Your Skills -->
-## Skills
-- HTML5, CSS3, JavaScript
-- React, Vue.js, Angular
-- Python, Java, C++
-- Git, GitHub, Agile
+- 🔭 I’m currently working on **ITOPS Admin Panel**
 
-<!-- Your Projects -->
-## Projects
-- [Project 1](https://github.com/your-username/project-1): A stunning web application built with React and styled with CSS animations.
-- [Project 2](https://github.com/your-username/project-2): An AI-powered chatbot developed using Python and TensorFlow.
-- [Project 3](https://github.com/your-username/project-3): A mobile app built with Flutter that helps users track their fitness goals.
+- 🌱 I’m currently learning **Spring boot**
 
-<!-- Your Stats -->
-## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- 💬 Ask me about **Flutter Development**
 
-<!-- Your Social Media -->
-## Connect with Me
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://your-website.com)
+- 📫 How to reach me **sk.valiya.babji@gmail.com**
 
-<!-- Your Animated SVG -->
-<p align="center">
-  <img src="https://path-to-your-animated-svg.svg" alt="Animated SVG" width="500" height="200">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/20a31a05i9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20a31a05i9" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
