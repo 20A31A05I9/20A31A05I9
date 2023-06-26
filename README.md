@@ -9,7 +9,12 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
 
 <hr>
 <h2 align="left">🛠️ Languages and Tools </h2>
-<h2 align="left">Programming languages </h2>
+<tr>
+      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
+      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
+      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
+      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
+</tr>
 <table>
   <tr>
       <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
