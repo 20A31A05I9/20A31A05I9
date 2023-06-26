@@ -16,7 +16,7 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
 <p>
   <a>
   <div>
-    <img src="![Image Alt Text](./images/image1.jpg)" alt="Farmer store app">
+    <img src="![Image Alt Text](Screenshot_20230626_134930.jpg)" alt="Farmer store app">
     <div class="card-content">
       <h2>Farmer Store App</h2>
       <p>This is the farmer store app which is useful for farmers to sell items directly to the consumers without mediators.</p>
