@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm SHAIK VALIYA BABJI 👋</h1>
+<h2 align="center">Hello, I'm SHAIK VALIYA BABJI 👋</h2>
 
-<h3 align="center">A passionate flutter developer for multiplatform from India , I'm familiar with programming languages like [ C C++ PYTHON JAVA ] And databases like [ SQL ] and No sql databases like [ MONGO DB and FIREBASE ] And also apis like [ PHP and SPRINGBOOT ] , A dedicated enthusiast of Data Structures and Algorithms with a focus on C++. I love solving complex problems and optimizing code for efficiency.. </h3>
+<h5 align="left">A passionate flutter developer for multiplatform from India , I'm familiar with programming languages like [ C C++ PYTHON JAVA ] And databases like [ SQL ] and No sql databases like [ MONGO DB and FIREBASE ] And also apis like [ PHP and SPRINGBOOT ] , A dedicated enthusiast of Data Structures and Algorithms with a focus on C++. I love solving complex problems and optimizing code for efficiency.. </h5>
 
 
 - 🔭 I’m currently working on **ITOPS Admin Panel**
