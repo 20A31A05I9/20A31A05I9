@@ -9,12 +9,6 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
 
 <hr>
 <h2 align="left">🛠️ Languages and Tools </h2>
-<tr>
-      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
-      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
-      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
-      <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
-</tr>
 <table>
   <tr>
       <td  align="center"><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td>
@@ -30,4 +24,3 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
     <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></td><br>
   </tr>
 </table>
-<h2 align="left">Web languages </h2>
