@@ -29,3 +29,7 @@ I'm a passionate developer who loves creating beautiful and functional software.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://your-website.com)
 
+<!-- Your Animated SVG -->
+<p align="center">
+  <img src="https://path-to-your-animated-svg.svg" alt="Animated SVG" width="500" height="200">
+</p>
