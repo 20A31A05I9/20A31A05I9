@@ -12,7 +12,7 @@ I'm good at programming languages like [ C, C++, JAVA, PYTHON, SQL ], Some web d
 <table>
   <h2 align="left">Programming languages </h2>
   <tr>
-      <td><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td><br>
+      <br><td><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50" align="center"><h3 align="left">C</h3></td><br>
       <td><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td><br>
       <td><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td><br>
       <td><img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" width="50" height="50"></td><br>
