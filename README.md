@@ -1,4 +1,3 @@
-[![MasterHead](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 <h2 align="left">Hi 👋, I'm SHAIK VALIYA BABJI</h2>
 <hr>
 <h2 align="left">📝 About me </h2>
